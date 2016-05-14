@@ -1,0 +1,19 @@
+{
+  "name": "ss-web-player",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laszlobenyi/ss-web-player.git"
+  },
+  "author": "Laszlo Benyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laszlobenyi/ss-web-player/issues"
+  },
+  "homepage": "https://github.com/laszlobenyi/ss-web-player#readme"
+}
